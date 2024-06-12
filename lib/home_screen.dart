@@ -76,7 +76,7 @@ class _StopWatchPageState extends State<StopWatchPage> {
               style: const TextStyle(
                 fontSize: 48,
                 fontWeight: FontWeight.bold,
-                color: Colors.white,
+                color: Colors.white
               ),
             ),
             const SizedBox(height: 20),
